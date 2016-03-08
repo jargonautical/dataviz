@@ -10,7 +10,7 @@ Your task is to present the data in a way that answers one of these three questi
 If you think of another question that we could ask of this data, feel free to tackle that instead. 
  
 #####Exercise 1
-No software allowed! Before you get on to manipulating the data itself, use the pens and paper to roughly skecth what you think a good data presentation should be.
+No software allowed! Before you get on to manipulating the data itself, use the pens and paper to roughly sketch what you think a good data presentation should be.
  
 #####Exercise 2
 Choose a software tool you like using, or one that you want to try today, and use it to create a data visualisation folowing the principles we've just covered.
