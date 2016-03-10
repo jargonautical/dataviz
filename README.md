@@ -75,7 +75,9 @@ Free online courses on a huge range of topics. These might be of particular inte
 ####Books
 #####David McCandless
 http://www.davidmccandless.com/books/
-Knowledge Is Beatiful
+
+Knowledge Is Beautiful
+
 Information Is Beautiful 
 
 #####Edward Tufte
