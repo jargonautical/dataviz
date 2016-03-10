@@ -1,5 +1,5 @@
 # dataviz
-Resources for the Communicating with Data course
+###Resources for the Communicating with Data course
 
 Resources in this folder are shared under a Creative Commmons license CC BY-SA 4.0
 
@@ -27,12 +27,12 @@ http://innovis.cpsc.ucalgary.ca/supplemental/Data-Sketching/
 
 An Exploratory Study of Data Sketching for Visual Representation
 
+####Data visualisation examples
+
 #####Code Doodles
 http://codedoodl.es
 
 Creative code sketches building interactive visualisations
-
-####Data visualisation examples
 
 #####How Dry Is California?
 https://www.washingtonpost.com/graphics/national/drought-in-southwest
@@ -71,6 +71,41 @@ Free online courses on a huge range of topics. These might be of particular inte
 
 ######Data Science https://www.coursera.org/specializations/jhu-data-science
 ######Data visualisation https://www.coursera.org/course/datavisualization
+
+####Books
+#####David McCandless
+http://www.davidmccandless.com/books/
+Knowledge Is Beatiful
+Information Is Beautiful 
+
+#####Edward Tufte
+The Visual Display of Quantitative Information
+http://www.edwardtufte.com/tufte/books_vdqi
+
+#####Max Shron
+Thinking With Data
+http://www.amazon.co.uk/Thinking-Data-Turn-Information-Insights/dp/1449362931
+(Also available direct from O'Reilly but the server was down for maintenance when I went to get the link)
+
+####Blogs
+#####Information is Beautiful
+http://www.informationisbeautiful.net
+
+#####WTFViz
+http://viz.wtf (or follow @WTFviz on Twitter)
+
+#####viz4.net
+Random thoughts on information visualization, data journalism and interactive graphics by Gregor Aisch.
+http://vis4.net/blog/
+
+Includes this post on the red-green colour scale map example used in the course.
+http://vis4.net/blog/posts/goodbye-redgreen-scales/
+
+#####Excel User
+http://exceluser.com/blog/
+
+Includes the article mentioned in the course about the increase in chart junk
+http://exceluser.com/blog/1133/good-examples-of-bad-charts-chart-junk-from-a-surprising-source.html
 
 ####Events and meetups
 #####Devon Open Data Forum
